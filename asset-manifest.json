@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netology-list/static/css/main.f3301d58.css",
+    "main.js": "/netology-list/static/js/main.83f1c4c3.js",
+    "index.html": "/netology-list/index.html",
+    "main.f3301d58.css.map": "/netology-list/static/css/main.f3301d58.css.map",
+    "main.83f1c4c3.js.map": "/netology-list/static/js/main.83f1c4c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3301d58.css",
+    "static/js/main.83f1c4c3.js"
+  ]
+}
