@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/netology/static/css/main.fccfedbc.css",
-    "main.js": "/netology/static/js/main.ad8b1107.js",
+    "main.css": "/netology/static/css/main.28900eb3.css",
+    "main.js": "/netology/static/js/main.60a77f86.js",
     "index.html": "/netology/index.html",
-    "main.fccfedbc.css.map": "/netology/static/css/main.fccfedbc.css.map",
-    "main.ad8b1107.js.map": "/netology/static/js/main.ad8b1107.js.map"
+    "main.28900eb3.css.map": "/netology/static/css/main.28900eb3.css.map",
+    "main.60a77f86.js.map": "/netology/static/js/main.60a77f86.js.map"
   },
   "entrypoints": [
-    "static/css/main.fccfedbc.css",
-    "static/js/main.ad8b1107.js"
+    "static/css/main.28900eb3.css",
+    "static/js/main.60a77f86.js"
   ]
 }
