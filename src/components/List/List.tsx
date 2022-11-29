@@ -10,6 +10,7 @@ import styles from './List.module.css';
 
 const List = () => {
 	const dispatch = useAppDispatch();
+
 	const data = useSelector((state: RootState) => state.list.data);
 	const status = useSelector((state: RootState) => state.list.status);
 
@@ -22,7 +23,7 @@ const List = () => {
 	}, []);
 
 	return (
-		<div>
+		<div className={styles.content}>
 			<h1 className={styles.header}>Изучайте актуальные темы</h1>
 			{status === LoadStatuses.Loading && <Loader />}
 			{status === LoadStatuses.Error && (
